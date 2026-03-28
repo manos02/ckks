@@ -2,3 +2,5 @@
 *.docx
 2016-421.pdf
 fft.py
+
+__pycache__
